@@ -284,3 +284,7 @@ p {
 .error{
     border-bottom: 2px solid #ff4332;
 }
+.classupdef{
+    border-bottom: #FFC700;
+    flex: 2;
+}
