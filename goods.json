@@ -17,10 +17,4 @@
         "description": "Спелая и сочная клубника",
         "image": "images/strawberry.png"
     },
-    "11296": {
-        "name": "смородина",
-        "cost": 13,
-        "description": "ее",
-        "image": "images/strawberry.png"
-    }
 }
