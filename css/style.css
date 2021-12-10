@@ -277,3 +277,10 @@ p {
     text-align: center;
     color: #eba72b;
 }
+
+.none{
+    display: none;
+}
+.error{
+    border-bottom: 2px solid #ff4332;
+}
