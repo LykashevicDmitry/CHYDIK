@@ -19,10 +19,10 @@ if ($_SESSION['user']){
     <!-- ВЕРХНЕЕ ЗАФИКСИРОВАННОЕ МЕНЮ -->
 <nav class="menu">
     <a style="float: left"class="header__logo" href="../index.html"><img src="../img/logo.jpg" width="80" height="80" alt="Undergraund" ></a>
-    <p style="float: right"><a class="menu__link" href="authrization.php">Авторизация</a></p>
+    <p style="float: right"><a class="menu__link" href="authrization/authrization.php">Авторизация</a></p>
     <p style="float: right"><a class="menu__link" href="../contacts/contacts.html">Контакты</a></p>
     <p style="float: right"><a class="menu__link" href="../catalog/catalog.html">Каталог</a></p>
-    <p style="float: right"><a class="menu__link" href="../basket/basket.html">Корзина</a></p>
+    <p style="float: right"><a class="menu__link" href="../basket/cart.html">Корзина</a></p>
 </nav>
     <!-- ФОРМА АВТОРИЗАЦИИ -->
     <form>
