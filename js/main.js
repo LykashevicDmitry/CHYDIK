@@ -34,10 +34,10 @@ $('.login-btn').click(function (e) {
 });
 
 /*
-Аватарка с поля
+Загрузка аватарки с поля
  */
 
-let avatar = false;
+let avatar = true;
 
 $('input[name="avatar"]').change(function (e) {
     avatar= e.target.files[0];
