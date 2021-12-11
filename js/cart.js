@@ -11,7 +11,7 @@ $.getJSON('../goods.json', function(data) {
     function showCart() {
         if ($.isEmptyObject(cart)) {
             //корзина пуста
-            var out = 'Корзина пуста. Добавьте товар в корзину <a href="catalog.html">главная страница</a>';
+            var out = 'Корзина пуста. Добавьте товар в корзину <a href="catalog\\catalog.html">главная страница</a>';
             $('#my-cart').html(out);
         } else {
             var out = '';
